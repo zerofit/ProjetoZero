@@ -1,4 +1,0 @@
-ProjetoZero
-===========
-
-EA - Projeto Federação
